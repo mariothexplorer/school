@@ -1,0 +1,31 @@
+C:\Users\mario\Documents\Mario 10G\Dumi\bin\Debug\Dumi.exe.config
+C:\Users\mario\Documents\Mario 10G\Dumi\bin\Debug\Dumi.exe
+C:\Users\mario\Documents\Mario 10G\Dumi\bin\Debug\Dumi.pdb
+C:\Users\mario\Documents\Mario 10G\Dumi\obj\Debug\Dumi.csproj.AssemblyReference.cache
+C:\Users\mario\Documents\Mario 10G\Dumi\obj\Debug\Dumi.Form1.resources
+C:\Users\mario\Documents\Mario 10G\Dumi\obj\Debug\Dumi.Properties.Resources.resources
+C:\Users\mario\Documents\Mario 10G\Dumi\obj\Debug\Dumi.csproj.GenerateResource.cache
+C:\Users\mario\Documents\Mario 10G\Dumi\obj\Debug\Dumi.csproj.CoreCompileInputs.cache
+C:\Users\mario\Documents\Mario 10G\Dumi\obj\Debug\Dumi.exe
+C:\Users\mario\Documents\Mario 10G\Dumi\obj\Debug\Dumi.pdb
+E:\Dumi\bin\Debug\Dumi.exe.config
+E:\Dumi\bin\Debug\Dumi.exe
+E:\Dumi\bin\Debug\Dumi.pdb
+E:\Dumi\obj\Debug\Dumi.csproj.AssemblyReference.cache
+E:\Dumi\obj\Debug\Dumi.Form1.resources
+E:\Dumi\obj\Debug\Dumi.Properties.Resources.resources
+E:\Dumi\obj\Debug\Dumi.csproj.GenerateResource.cache
+E:\Dumi\obj\Debug\Dumi.csproj.CoreCompileInputs.cache
+E:\Dumi\obj\Debug\Dumi.exe
+E:\Dumi\obj\Debug\Dumi.pdb
+C:\Users\mario\Desktop\Dumi\bin\Debug\Dumi.exe.config
+C:\Users\mario\Desktop\Dumi\bin\Debug\Dumi.exe
+C:\Users\mario\Desktop\Dumi\bin\Debug\Dumi.pdb
+C:\Users\mario\Desktop\Dumi\obj\Debug\Dumi.csproj.AssemblyReference.cache
+C:\Users\mario\Desktop\Dumi\obj\Debug\Dumi.csproj.SuggestedBindingRedirects.cache
+C:\Users\mario\Desktop\Dumi\obj\Debug\Dumi.Form1.resources
+C:\Users\mario\Desktop\Dumi\obj\Debug\Dumi.Properties.Resources.resources
+C:\Users\mario\Desktop\Dumi\obj\Debug\Dumi.csproj.GenerateResource.cache
+C:\Users\mario\Desktop\Dumi\obj\Debug\Dumi.csproj.CoreCompileInputs.cache
+C:\Users\mario\Desktop\Dumi\obj\Debug\Dumi.exe
+C:\Users\mario\Desktop\Dumi\obj\Debug\Dumi.pdb

@@ -1,0 +1,16 @@
+G:\Mario 10G\Goriva\Goriva\bin\Debug\net6.0-windows\Goriva.exe
+G:\Mario 10G\Goriva\Goriva\bin\Debug\net6.0-windows\Goriva.deps.json
+G:\Mario 10G\Goriva\Goriva\bin\Debug\net6.0-windows\Goriva.runtimeconfig.json
+G:\Mario 10G\Goriva\Goriva\bin\Debug\net6.0-windows\Goriva.dll
+G:\Mario 10G\Goriva\Goriva\bin\Debug\net6.0-windows\Goriva.pdb
+G:\Mario 10G\Goriva\Goriva\obj\Debug\net6.0-windows\Goriva.Form1.resources
+G:\Mario 10G\Goriva\Goriva\obj\Debug\net6.0-windows\Goriva.csproj.GenerateResource.cache
+G:\Mario 10G\Goriva\Goriva\obj\Debug\net6.0-windows\Goriva.GeneratedMSBuildEditorConfig.editorconfig
+G:\Mario 10G\Goriva\Goriva\obj\Debug\net6.0-windows\Goriva.AssemblyInfoInputs.cache
+G:\Mario 10G\Goriva\Goriva\obj\Debug\net6.0-windows\Goriva.AssemblyInfo.cs
+G:\Mario 10G\Goriva\Goriva\obj\Debug\net6.0-windows\Goriva.csproj.CoreCompileInputs.cache
+G:\Mario 10G\Goriva\Goriva\obj\Debug\net6.0-windows\Goriva.dll
+G:\Mario 10G\Goriva\Goriva\obj\Debug\net6.0-windows\refint\Goriva.dll
+G:\Mario 10G\Goriva\Goriva\obj\Debug\net6.0-windows\Goriva.pdb
+G:\Mario 10G\Goriva\Goriva\obj\Debug\net6.0-windows\Goriva.genruntimeconfig.cache
+G:\Mario 10G\Goriva\Goriva\obj\Debug\net6.0-windows\ref\Goriva.dll

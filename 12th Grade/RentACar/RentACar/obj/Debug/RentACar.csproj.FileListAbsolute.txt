@@ -1,0 +1,126 @@
+D:\ICK\Информатика\ICK\RentACar\RentACar\bin\Debug\RentACar.exe.config
+D:\ICK\Информатика\ICK\RentACar\RentACar\bin\Debug\RentACar.exe
+D:\ICK\Информатика\ICK\RentACar\RentACar\bin\Debug\RentACar.pdb
+D:\ICK\Информатика\ICK\RentACar\RentACar\bin\Debug\EntityFramework.dll
+D:\ICK\Информатика\ICK\RentACar\RentACar\bin\Debug\EntityFramework.xml
+D:\ICK\Информатика\ICK\RentACar\RentACar\obj\Debug\RentACar.csproj.AssemblyReference.cache
+D:\ICK\Информатика\ICK\RentACar\RentACar\obj\Debug\RentACar.Form1.resources
+D:\ICK\Информатика\ICK\RentACar\RentACar\obj\Debug\RentACar.Properties.Resources.resources
+D:\ICK\Информатика\ICK\RentACar\RentACar\obj\Debug\RentACar.csproj.GenerateResource.cache
+D:\ICK\Информатика\ICK\RentACar\RentACar\obj\Debug\RentACar.csproj.CoreCompileInputs.cache
+D:\ICK\Информатика\ICK\RentACar\RentACar\obj\Debug\RentACar.csproj.Up2Date
+D:\ICK\Информатика\ICK\RentACar\RentACar\obj\Debug\RentACar.exe
+D:\ICK\Информатика\ICK\RentACar\RentACar\obj\Debug\RentACar.pdb
+D:\ICK\Информатика\ICK\RentACar\RentACar\obj\Debug\RentACar.Form2.resources
+D:\ICK\Информатика\ICK\RentACar\RentACar\obj\Debug\RentACar.exe.config
+D:\ICK\Информатика\ICK\RentACar\RentACar\obj\Debug\RentACar.Form3.resources
+D:\ICK\Информатика\ICK\RentACar\RentACar\obj\Debug\UserControl1.g.cs
+D:\ICK\Информатика\ICK\RentACar\RentACar\obj\Debug\RentACar_Content.g.cs
+D:\ICK\Информатика\ICK\RentACar\RentACar\obj\Debug\RentACar_MarkupCompile.cache
+D:\ICK\Информатика\ICK\RentACar\RentACar\obj\Debug\RentACar_MarkupCompile.lref
+D:\ICK\Информатика\ICK\RentACar\RentACar\obj\Debug\UserControl1.baml
+D:\ICK\Информатика\ICK\RentACar\RentACar\obj\Debug\RentACar.g.resources
+D:\ICK\Информатика\ICK\RentACar\RentACar\obj\Debug\RentACar.Form4.resources
+D:\ICK\Информатика\ICK\RentACar\RentACar\obj\Debug\RentACar.Form5.resources
+C:\Users\mario\Desktop\RentACar\RentACar\bin\Debug\RentACar.exe.config
+C:\Users\mario\Desktop\RentACar\RentACar\bin\Debug\RentACar.exe
+C:\Users\mario\Desktop\RentACar\RentACar\bin\Debug\RentACar.pdb
+C:\Users\mario\Desktop\RentACar\RentACar\bin\Debug\EntityFramework.dll
+C:\Users\mario\Desktop\RentACar\RentACar\bin\Debug\EntityFramework.xml
+C:\Users\mario\Desktop\RentACar\RentACar\obj\Debug\RentACar.csproj.AssemblyReference.cache
+C:\Users\mario\Desktop\RentACar\RentACar\obj\Debug\UserControl1.g.cs
+C:\Users\mario\Desktop\RentACar\RentACar\obj\Debug\RentACar_Content.g.cs
+C:\Users\mario\Desktop\RentACar\RentACar\obj\Debug\RentACar_MarkupCompile.cache
+C:\Users\mario\Desktop\RentACar\RentACar\obj\Debug\RentACar_MarkupCompile.lref
+C:\Users\mario\Desktop\RentACar\RentACar\obj\Debug\UserControl1.baml
+C:\Users\mario\Desktop\RentACar\RentACar\obj\Debug\RentACar.g.resources
+C:\Users\mario\Desktop\RentACar\RentACar\obj\Debug\RentACar.Form1.resources
+C:\Users\mario\Desktop\RentACar\RentACar\obj\Debug\RentACar.Form2.resources
+C:\Users\mario\Desktop\RentACar\RentACar\obj\Debug\RentACar.Form3.resources
+C:\Users\mario\Desktop\RentACar\RentACar\obj\Debug\RentACar.Form4.resources
+C:\Users\mario\Desktop\RentACar\RentACar\obj\Debug\RentACar.Form5.resources
+C:\Users\mario\Desktop\RentACar\RentACar\obj\Debug\RentACar.Properties.Resources.resources
+C:\Users\mario\Desktop\RentACar\RentACar\obj\Debug\RentACar.csproj.GenerateResource.cache
+C:\Users\mario\Desktop\RentACar\RentACar\obj\Debug\RentACar.csproj.CoreCompileInputs.cache
+C:\Users\mario\Desktop\RentACar\RentACar\obj\Debug\RentACar.csproj.Up2Date
+C:\Users\mario\Desktop\RentACar\RentACar\obj\Debug\RentACar.exe
+C:\Users\mario\Desktop\RentACar\RentACar\obj\Debug\RentACar.pdb
+E:\RentACar\RentACar\bin\Debug\RentACar.exe.config
+E:\RentACar\RentACar\bin\Debug\RentACar.exe
+E:\RentACar\RentACar\bin\Debug\RentACar.pdb
+E:\RentACar\RentACar\bin\Debug\EntityFramework.dll
+E:\RentACar\RentACar\bin\Debug\EntityFramework.xml
+E:\RentACar\RentACar\obj\Debug\RentACar.csproj.AssemblyReference.cache
+E:\RentACar\RentACar\obj\Debug\RentACar.exe.config
+E:\RentACar\RentACar\obj\Debug\UserControl1.g.cs
+E:\RentACar\RentACar\obj\Debug\RentACar_Content.g.cs
+E:\RentACar\RentACar\obj\Debug\RentACar_MarkupCompile.cache
+E:\RentACar\RentACar\obj\Debug\RentACar_MarkupCompile.lref
+E:\RentACar\RentACar\obj\Debug\UserControl1.baml
+E:\RentACar\RentACar\obj\Debug\RentACar.g.resources
+E:\RentACar\RentACar\obj\Debug\RentACar.Form1.resources
+E:\RentACar\RentACar\obj\Debug\RentACar.Form2.resources
+E:\RentACar\RentACar\obj\Debug\RentACar.Form3.resources
+E:\RentACar\RentACar\obj\Debug\RentACar.Form4.resources
+E:\RentACar\RentACar\obj\Debug\RentACar.Form5.resources
+E:\RentACar\RentACar\obj\Debug\RentACar.Properties.Resources.resources
+E:\RentACar\RentACar\obj\Debug\RentACar.csproj.GenerateResource.cache
+E:\RentACar\RentACar\obj\Debug\RentACar.csproj.CoreCompileInputs.cache
+E:\RentACar\RentACar\obj\Debug\RentACar.csproj.Up2Date
+E:\RentACar\RentACar\obj\Debug\RentACar.exe
+E:\RentACar\RentACar\obj\Debug\RentACar.pdb
+D:\ICK\Информатика\ICK\DAS\RentACar\RentACar\bin\Debug\RentACar.exe.config
+D:\ICK\Информатика\ICK\DAS\RentACar\RentACar\bin\Debug\RentACar.exe
+D:\ICK\Информатика\ICK\DAS\RentACar\RentACar\bin\Debug\RentACar.pdb
+D:\ICK\Информатика\ICK\DAS\RentACar\RentACar\bin\Debug\EntityFramework.dll
+D:\ICK\Информатика\ICK\DAS\RentACar\RentACar\bin\Debug\EntityFramework.xml
+D:\ICK\Информатика\ICK\DAS\RentACar\RentACar\obj\Debug\RentACar.csproj.AssemblyReference.cache
+D:\ICK\Информатика\ICK\DAS\RentACar\RentACar\obj\Debug\RentACar.exe.config
+D:\ICK\Информатика\ICK\DAS\RentACar\RentACar\obj\Debug\UserControl1.g.cs
+D:\ICK\Информатика\ICK\DAS\RentACar\RentACar\obj\Debug\RentACar_Content.g.cs
+D:\ICK\Информатика\ICK\DAS\RentACar\RentACar\obj\Debug\RentACar_MarkupCompile.cache
+D:\ICK\Информатика\ICK\DAS\RentACar\RentACar\obj\Debug\RentACar_MarkupCompile.lref
+D:\ICK\Информатика\ICK\DAS\RentACar\RentACar\obj\Debug\UserControl1.baml
+D:\ICK\Информатика\ICK\DAS\RentACar\RentACar\obj\Debug\RentACar.g.resources
+D:\ICK\Информатика\ICK\DAS\RentACar\RentACar\obj\Debug\RentACar.Form1.resources
+D:\ICK\Информатика\ICK\DAS\RentACar\RentACar\obj\Debug\RentACar.Form2.resources
+D:\ICK\Информатика\ICK\DAS\RentACar\RentACar\obj\Debug\RentACar.Form3.resources
+D:\ICK\Информатика\ICK\DAS\RentACar\RentACar\obj\Debug\RentACar.Form4.resources
+D:\ICK\Информатика\ICK\DAS\RentACar\RentACar\obj\Debug\RentACar.Form5.resources
+D:\ICK\Информатика\ICK\DAS\RentACar\RentACar\obj\Debug\RentACar.Properties.Resources.resources
+D:\ICK\Информатика\ICK\DAS\RentACar\RentACar\obj\Debug\RentACar.csproj.GenerateResource.cache
+D:\ICK\Информатика\ICK\DAS\RentACar\RentACar\obj\Debug\RentACar.csproj.CoreCompileInputs.cache
+D:\ICK\Информатика\ICK\DAS\RentACar\RentACar\obj\Debug\RentACar.csproj.Up2Date
+D:\ICK\Информатика\ICK\DAS\RentACar\RentACar\obj\Debug\RentACar.exe
+D:\ICK\Информатика\ICK\DAS\RentACar\RentACar\obj\Debug\RentACar.pdb
+D:\ICK\Информатика\ICK\DAS\RentACar\RentACar\obj\Debug\RentACar.Form6.resources
+D:\ICK\Информатика\ICK\DAS\RentACar\RentACar\obj\Debug\RentACar.Form7.resources
+D:\ICK\Информатика\ICK\DAS\RentACar\RentACar\obj\Debug\RentACar.Form8.resources
+D:\ICK\Информатика\ICK\DAS\RentACar\RentACar\obj\Debug\RentACar.Form9.resources
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\XII клас 2025-2026\Информатика - ПП\MDP - 12G\RentACar\RentACar\bin\Debug\RentACar.exe.config
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\XII клас 2025-2026\Информатика - ПП\MDP - 12G\RentACar\RentACar\bin\Debug\RentACar.exe
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\XII клас 2025-2026\Информатика - ПП\MDP - 12G\RentACar\RentACar\bin\Debug\RentACar.pdb
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\XII клас 2025-2026\Информатика - ПП\MDP - 12G\RentACar\RentACar\bin\Debug\EntityFramework.dll
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\XII клас 2025-2026\Информатика - ПП\MDP - 12G\RentACar\RentACar\bin\Debug\EntityFramework.xml
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\XII клас 2025-2026\Информатика - ПП\MDP - 12G\RentACar\RentACar\obj\Debug\RentACar.csproj.AssemblyReference.cache
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\XII клас 2025-2026\Информатика - ПП\MDP - 12G\RentACar\RentACar\obj\Debug\UserControl1.g.cs
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\XII клас 2025-2026\Информатика - ПП\MDP - 12G\RentACar\RentACar\obj\Debug\RentACar_Content.g.cs
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\XII клас 2025-2026\Информатика - ПП\MDP - 12G\RentACar\RentACar\obj\Debug\RentACar_MarkupCompile.cache
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\XII клас 2025-2026\Информатика - ПП\MDP - 12G\RentACar\RentACar\obj\Debug\RentACar_MarkupCompile.lref
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\XII клас 2025-2026\Информатика - ПП\MDP - 12G\RentACar\RentACar\obj\Debug\UserControl1.baml
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\XII клас 2025-2026\Информатика - ПП\MDP - 12G\RentACar\RentACar\obj\Debug\RentACar.g.resources
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\XII клас 2025-2026\Информатика - ПП\MDP - 12G\RentACar\RentACar\obj\Debug\RentACar.Form1.resources
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\XII клас 2025-2026\Информатика - ПП\MDP - 12G\RentACar\RentACar\obj\Debug\RentACar.Form2.resources
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\XII клас 2025-2026\Информатика - ПП\MDP - 12G\RentACar\RentACar\obj\Debug\RentACar.Form3.resources
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\XII клас 2025-2026\Информатика - ПП\MDP - 12G\RentACar\RentACar\obj\Debug\RentACar.Form4.resources
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\XII клас 2025-2026\Информатика - ПП\MDP - 12G\RentACar\RentACar\obj\Debug\RentACar.Form5.resources
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\XII клас 2025-2026\Информатика - ПП\MDP - 12G\RentACar\RentACar\obj\Debug\RentACar.Form6.resources
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\XII клас 2025-2026\Информатика - ПП\MDP - 12G\RentACar\RentACar\obj\Debug\RentACar.Form7.resources
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\XII клас 2025-2026\Информатика - ПП\MDP - 12G\RentACar\RentACar\obj\Debug\RentACar.Form8.resources
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\XII клас 2025-2026\Информатика - ПП\MDP - 12G\RentACar\RentACar\obj\Debug\RentACar.Form9.resources
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\XII клас 2025-2026\Информатика - ПП\MDP - 12G\RentACar\RentACar\obj\Debug\RentACar.Properties.Resources.resources
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\XII клас 2025-2026\Информатика - ПП\MDP - 12G\RentACar\RentACar\obj\Debug\RentACar.csproj.GenerateResource.cache
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\XII клас 2025-2026\Информатика - ПП\MDP - 12G\RentACar\RentACar\obj\Debug\RentACar.csproj.CoreCompileInputs.cache
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\XII клас 2025-2026\Информатика - ПП\MDP - 12G\RentACar\RentACar\obj\Debug\RentACar.csproj.Up2Date
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\XII клас 2025-2026\Информатика - ПП\MDP - 12G\RentACar\RentACar\obj\Debug\RentACar.exe
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\XII клас 2025-2026\Информатика - ПП\MDP - 12G\RentACar\RentACar\obj\Debug\RentACar.pdb

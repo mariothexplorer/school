@@ -1,0 +1,10 @@
+C:\Users\mario\Documents\Mario 10G\Example_files\bin\Debug\Example_files.exe.config
+C:\Users\mario\Documents\Mario 10G\Example_files\bin\Debug\Example_files.exe
+C:\Users\mario\Documents\Mario 10G\Example_files\bin\Debug\Example_files.pdb
+C:\Users\mario\Documents\Mario 10G\Example_files\obj\Debug\Example_files.csproj.AssemblyReference.cache
+C:\Users\mario\Documents\Mario 10G\Example_files\obj\Debug\Example_files.Form1.resources
+C:\Users\mario\Documents\Mario 10G\Example_files\obj\Debug\Example_files.Properties.Resources.resources
+C:\Users\mario\Documents\Mario 10G\Example_files\obj\Debug\Example_files.csproj.GenerateResource.cache
+C:\Users\mario\Documents\Mario 10G\Example_files\obj\Debug\Example_files.csproj.CoreCompileInputs.cache
+C:\Users\mario\Documents\Mario 10G\Example_files\obj\Debug\Example_files.exe
+C:\Users\mario\Documents\Mario 10G\Example_files\obj\Debug\Example_files.pdb

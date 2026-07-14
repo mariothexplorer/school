@@ -1,0 +1,10 @@
+C:\Users\mario\Documents\Mario 10G\School_Book\bin\Debug\School_Book.exe.config
+C:\Users\mario\Documents\Mario 10G\School_Book\bin\Debug\School_Book.exe
+C:\Users\mario\Documents\Mario 10G\School_Book\bin\Debug\School_Book.pdb
+C:\Users\mario\Documents\Mario 10G\School_Book\obj\Debug\School_Book.csproj.AssemblyReference.cache
+C:\Users\mario\Documents\Mario 10G\School_Book\obj\Debug\School_Book.Form1.resources
+C:\Users\mario\Documents\Mario 10G\School_Book\obj\Debug\School_Book.Properties.Resources.resources
+C:\Users\mario\Documents\Mario 10G\School_Book\obj\Debug\School_Book.csproj.GenerateResource.cache
+C:\Users\mario\Documents\Mario 10G\School_Book\obj\Debug\School_Book.csproj.CoreCompileInputs.cache
+C:\Users\mario\Documents\Mario 10G\School_Book\obj\Debug\School_Book.exe
+C:\Users\mario\Documents\Mario 10G\School_Book\obj\Debug\School_Book.pdb

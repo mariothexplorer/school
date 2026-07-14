@@ -1,0 +1,7 @@
+G:\Mario 10G\ConsoleApp - Example\ConsoleApp - Example\bin\Debug\ConsoleApp - Example.exe.config
+G:\Mario 10G\ConsoleApp - Example\ConsoleApp - Example\bin\Debug\ConsoleApp - Example.exe
+G:\Mario 10G\ConsoleApp - Example\ConsoleApp - Example\bin\Debug\ConsoleApp - Example.pdb
+G:\Mario 10G\ConsoleApp - Example\ConsoleApp - Example\obj\Debug\ConsoleApp - Example.csproj.AssemblyReference.cache
+G:\Mario 10G\ConsoleApp - Example\ConsoleApp - Example\obj\Debug\ConsoleApp - Example.csproj.CoreCompileInputs.cache
+G:\Mario 10G\ConsoleApp - Example\ConsoleApp - Example\obj\Debug\ConsoleApp - Example.exe
+G:\Mario 10G\ConsoleApp - Example\ConsoleApp - Example\obj\Debug\ConsoleApp - Example.pdb

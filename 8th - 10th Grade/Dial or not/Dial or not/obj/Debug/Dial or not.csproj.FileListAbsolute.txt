@@ -1,0 +1,10 @@
+G:\Mario 10G\Dial or not\Dial or not\bin\Debug\Dial or not.exe.config
+G:\Mario 10G\Dial or not\Dial or not\bin\Debug\Dial or not.exe
+G:\Mario 10G\Dial or not\Dial or not\bin\Debug\Dial or not.pdb
+G:\Mario 10G\Dial or not\Dial or not\obj\Debug\Dial or not.csproj.AssemblyReference.cache
+G:\Mario 10G\Dial or not\Dial or not\obj\Debug\Dial_or_not.Form1.resources
+G:\Mario 10G\Dial or not\Dial or not\obj\Debug\Dial_or_not.Properties.Resources.resources
+G:\Mario 10G\Dial or not\Dial or not\obj\Debug\Dial or not.csproj.GenerateResource.cache
+G:\Mario 10G\Dial or not\Dial or not\obj\Debug\Dial or not.csproj.CoreCompileInputs.cache
+G:\Mario 10G\Dial or not\Dial or not\obj\Debug\Dial or not.exe
+G:\Mario 10G\Dial or not\Dial or not\obj\Debug\Dial or not.pdb

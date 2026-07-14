@@ -1,0 +1,20 @@
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\XII клас 2025-2026\Информатика - ПП\MDP - 12G\Spirki\Spirki\bin\Debug\Spirki.exe.config
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\XII клас 2025-2026\Информатика - ПП\MDP - 12G\Spirki\Spirki\bin\Debug\Spirki.exe
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\XII клас 2025-2026\Информатика - ПП\MDP - 12G\Spirki\Spirki\bin\Debug\Spirki.pdb
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\XII клас 2025-2026\Информатика - ПП\MDP - 12G\Spirki\Spirki\obj\Debug\Spirki.csproj.AssemblyReference.cache
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\XII клас 2025-2026\Информатика - ПП\MDP - 12G\Spirki\Spirki\obj\Debug\Spirki.Form1.resources
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\XII клас 2025-2026\Информатика - ПП\MDP - 12G\Spirki\Spirki\obj\Debug\Spirki.Properties.Resources.resources
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\XII клас 2025-2026\Информатика - ПП\MDP - 12G\Spirki\Spirki\obj\Debug\Spirki.csproj.GenerateResource.cache
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\XII клас 2025-2026\Информатика - ПП\MDP - 12G\Spirki\Spirki\obj\Debug\Spirki.csproj.CoreCompileInputs.cache
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\XII клас 2025-2026\Информатика - ПП\MDP - 12G\Spirki\Spirki\obj\Debug\Spirki.exe
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\XII клас 2025-2026\Информатика - ПП\MDP - 12G\Spirki\Spirki\obj\Debug\Spirki.pdb
+C:\Users\mario\Desktop\Spirki\Spirki\bin\Debug\Spirki.exe.config
+C:\Users\mario\Desktop\Spirki\Spirki\bin\Debug\Spirki.exe
+C:\Users\mario\Desktop\Spirki\Spirki\bin\Debug\Spirki.pdb
+C:\Users\mario\Desktop\Spirki\Spirki\obj\Debug\Spirki.csproj.AssemblyReference.cache
+C:\Users\mario\Desktop\Spirki\Spirki\obj\Debug\Spirki.Form1.resources
+C:\Users\mario\Desktop\Spirki\Spirki\obj\Debug\Spirki.Properties.Resources.resources
+C:\Users\mario\Desktop\Spirki\Spirki\obj\Debug\Spirki.csproj.GenerateResource.cache
+C:\Users\mario\Desktop\Spirki\Spirki\obj\Debug\Spirki.csproj.CoreCompileInputs.cache
+C:\Users\mario\Desktop\Spirki\Spirki\obj\Debug\Spirki.exe
+C:\Users\mario\Desktop\Spirki\Spirki\obj\Debug\Spirki.pdb

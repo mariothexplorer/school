@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mario\\OneDrive - \u041C\u0438\u043D\u0438\u0441\u0442\u0435\u0440\u0441\u0442\u0432\u043E \u043D\u0430 \u043E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\u0442\u043E \u0438 \u043D\u0430\u0443\u043A\u0430\u0442\u0430\\\u0423\u0447\u0438\u043B\u0438\u0449\u0435\\XII \u043A\u043B\u0430\u0441 2025-2026\\\u0418\u043D\u0444\u043E\u0440\u043C\u0430\u0442\u0438\u043A\u0430 - \u041F\u041F\\MDP - 12G\\ORM 3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E0C7FF4-85F2-4067-85A1-F9EC5CE0487B}|ORM 3\\ORM 3.csproj|c:\\users\\mario\\onedrive - \u043C\u0438\u043D\u0438\u0441\u0442\u0435\u0440\u0441\u0442\u0432\u043E \u043D\u0430 \u043E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\u0442\u043E \u0438 \u043D\u0430\u0443\u043A\u0430\u0442\u0430\\\u0443\u0447\u0438\u043B\u0438\u0449\u0435\\xii \u043A\u043B\u0430\u0441 2025-2026\\\u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0442\u0438\u043A\u0430 - \u043F\u043F\\mdp - 12g\\orm 3\\orm 3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E0C7FF4-85F2-4067-85A1-F9EC5CE0487B}|ORM 3\\ORM 3.csproj|solutionrelative:orm 3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E0C7FF4-85F2-4067-85A1-F9EC5CE0487B}|ORM 3\\ORM 3.csproj|c:\\users\\mario\\onedrive - \u043C\u0438\u043D\u0438\u0441\u0442\u0435\u0440\u0441\u0442\u0432\u043E \u043D\u0430 \u043E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\u0442\u043E \u0438 \u043D\u0430\u0443\u043A\u0430\u0442\u0430\\\u0443\u0447\u0438\u043B\u0438\u0449\u0435\\xii \u043A\u043B\u0430\u0441 2025-2026\\\u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0442\u0438\u043A\u0430 - \u043F\u043F\\mdp - 12g\\orm 3\\orm 3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E0C7FF4-85F2-4067-85A1-F9EC5CE0487B}|ORM 3\\ORM 3.csproj|solutionrelative:orm 3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E0C7FF4-85F2-4067-85A1-F9EC5CE0487B}|ORM 3\\ORM 3.csproj|c:\\users\\mario\\onedrive - \u043C\u0438\u043D\u0438\u0441\u0442\u0435\u0440\u0441\u0442\u0432\u043E \u043D\u0430 \u043E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\u0442\u043E \u0438 \u043D\u0430\u0443\u043A\u0430\u0442\u0430\\\u0443\u0447\u0438\u043B\u0438\u0449\u0435\\xii \u043A\u043B\u0430\u0441 2025-2026\\\u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0442\u0438\u043A\u0430 - \u043F\u043F\\mdp - 12g\\orm 3\\orm 3\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{4E0C7FF4-85F2-4067-85A1-F9EC5CE0487B}|ORM 3\\ORM 3.csproj|solutionrelative:orm 3\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\mario\\OneDrive - \u041C\u0438\u043D\u0438\u0441\u0442\u0435\u0440\u0441\u0442\u0432\u043E \u043D\u0430 \u043E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\u0442\u043E \u0438 \u043D\u0430\u0443\u043A\u0430\u0442\u0430\\\u0423\u0447\u0438\u043B\u0438\u0449\u0435\\XII \u043A\u043B\u0430\u0441 2025-2026\\\u0418\u043D\u0444\u043E\u0440\u043C\u0430\u0442\u0438\u043A\u0430 - \u041F\u041F\\MDP - 12G\\ORM 3\\ORM 3\\Model1.edmx",
+              "RelativeDocumentMoniker": "ORM 3\\Model1.edmx",
+              "ToolTip": "C:\\Users\\mario\\OneDrive - \u041C\u0438\u043D\u0438\u0441\u0442\u0435\u0440\u0441\u0442\u0432\u043E \u043D\u0430 \u043E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\u0442\u043E \u0438 \u043D\u0430\u0443\u043A\u0430\u0442\u0430\\\u0423\u0447\u0438\u043B\u0438\u0449\u0435\\XII \u043A\u043B\u0430\u0441 2025-2026\\\u0418\u043D\u0444\u043E\u0440\u043C\u0430\u0442\u0438\u043A\u0430 - \u041F\u041F\\MDP - 12G\\ORM 3\\ORM 3\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "ORM 3\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2026-01-27T10:10:32.731Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\mario\\OneDrive - \u041C\u0438\u043D\u0438\u0441\u0442\u0435\u0440\u0441\u0442\u0432\u043E \u043D\u0430 \u043E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\u0442\u043E \u0438 \u043D\u0430\u0443\u043A\u0430\u0442\u0430\\\u0423\u0447\u0438\u043B\u0438\u0449\u0435\\XII \u043A\u043B\u0430\u0441 2025-2026\\\u0418\u043D\u0444\u043E\u0440\u043C\u0430\u0442\u0438\u043A\u0430 - \u041F\u041F\\MDP - 12G\\ORM 3\\ORM 3\\Form1.cs",
+              "RelativeDocumentMoniker": "ORM 3\\Form1.cs",
+              "ToolTip": "C:\\Users\\mario\\OneDrive - \u041C\u0438\u043D\u0438\u0441\u0442\u0435\u0440\u0441\u0442\u0432\u043E \u043D\u0430 \u043E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\u0442\u043E \u0438 \u043D\u0430\u0443\u043A\u0430\u0442\u0430\\\u0423\u0447\u0438\u043B\u0438\u0449\u0435\\XII \u043A\u043B\u0430\u0441 2025-2026\\\u0418\u043D\u0444\u043E\u0440\u043C\u0430\u0442\u0438\u043A\u0430 - \u041F\u041F\\MDP - 12G\\ORM 3\\ORM 3\\Form1.cs",
+              "RelativeToolTip": "ORM 3\\Form1.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAAwFkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T10:08:11.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mario\\OneDrive - \u041C\u0438\u043D\u0438\u0441\u0442\u0435\u0440\u0441\u0442\u0432\u043E \u043D\u0430 \u043E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\u0442\u043E \u0438 \u043D\u0430\u0443\u043A\u0430\u0442\u0430\\\u0423\u0447\u0438\u043B\u0438\u0449\u0435\\XII \u043A\u043B\u0430\u0441 2025-2026\\\u0418\u043D\u0444\u043E\u0440\u043C\u0430\u0442\u0438\u043A\u0430 - \u041F\u041F\\MDP - 12G\\ORM 3\\ORM 3\\Form1.cs",
+              "RelativeDocumentMoniker": "ORM 3\\Form1.cs",
+              "ToolTip": "C:\\Users\\mario\\OneDrive - \u041C\u0438\u043D\u0438\u0441\u0442\u0435\u0440\u0441\u0442\u0432\u043E \u043D\u0430 \u043E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\u0442\u043E \u0438 \u043D\u0430\u0443\u043A\u0430\u0442\u0430\\\u0423\u0447\u0438\u043B\u0438\u0449\u0435\\XII \u043A\u043B\u0430\u0441 2025-2026\\\u0418\u043D\u0444\u043E\u0440\u043C\u0430\u0442\u0438\u043A\u0430 - \u041F\u041F\\MDP - 12G\\ORM 3\\ORM 3\\Form1.cs [Design]",
+              "RelativeToolTip": "ORM 3\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T10:02:39.827Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

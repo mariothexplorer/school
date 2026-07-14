@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Student\\Desktop\\TelerikSpravki\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{731F756A-C94C-4A4C-A789-22DF5CAF16F5}|TelerikSpravki\\TelerikSpravki.csproj|c:\\users\\student\\desktop\\telerikspravki\\telerikspravki\\controls1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{731F756A-C94C-4A4C-A789-22DF5CAF16F5}|TelerikSpravki\\TelerikSpravki.csproj|solutionrelative:telerikspravki\\controls1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{731F756A-C94C-4A4C-A789-22DF5CAF16F5}|TelerikSpravki\\TelerikSpravki.csproj|C:\\Users\\Student\\Desktop\\TelerikSpravki\\telerikspravki\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{731F756A-C94C-4A4C-A789-22DF5CAF16F5}|TelerikSpravki\\TelerikSpravki.csproj|solutionrelative:telerikspravki\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{731F756A-C94C-4A4C-A789-22DF5CAF16F5}|TelerikSpravki\\TelerikSpravki.csproj|C:\\Users\\Student\\Desktop\\TelerikSpravki\\telerikspravki\\projects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{731F756A-C94C-4A4C-A789-22DF5CAF16F5}|TelerikSpravki\\TelerikSpravki.csproj|solutionrelative:telerikspravki\\projects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{731F756A-C94C-4A4C-A789-22DF5CAF16F5}|TelerikSpravki\\TelerikSpravki.csproj|c:\\users\\student\\desktop\\telerikspravki\\telerikspravki\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{731F756A-C94C-4A4C-A789-22DF5CAF16F5}|TelerikSpravki\\TelerikSpravki.csproj|solutionrelative:telerikspravki\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{731F756A-C94C-4A4C-A789-22DF5CAF16F5}|TelerikSpravki\\TelerikSpravki.csproj|c:\\users\\student\\desktop\\telerikspravki\\telerikspravki\\controls1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{731F756A-C94C-4A4C-A789-22DF5CAF16F5}|TelerikSpravki\\TelerikSpravki.csproj|solutionrelative:telerikspravki\\controls1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{731F756A-C94C-4A4C-A789-22DF5CAF16F5}|TelerikSpravki\\TelerikSpravki.csproj|C:\\Users\\Student\\Desktop\\TelerikSpravki\\telerikspravki\\projects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{731F756A-C94C-4A4C-A789-22DF5CAF16F5}|TelerikSpravki\\TelerikSpravki.csproj|solutionrelative:telerikspravki\\projects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{731F756A-C94C-4A4C-A789-22DF5CAF16F5}|TelerikSpravki\\TelerikSpravki.csproj|C:\\Users\\Student\\Desktop\\TelerikSpravki\\telerikspravki\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{731F756A-C94C-4A4C-A789-22DF5CAF16F5}|TelerikSpravki\\TelerikSpravki.csproj|solutionrelative:telerikspravki\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{731F756A-C94C-4A4C-A789-22DF5CAF16F5}|TelerikSpravki\\TelerikSpravki.csproj|C:\\Users\\Student\\Desktop\\TelerikSpravki\\telerikspravki\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{731F756A-C94C-4A4C-A789-22DF5CAF16F5}|TelerikSpravki\\TelerikSpravki.csproj|solutionrelative:telerikspravki\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Controls1.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\TelerikSpravki\\TelerikSpravki\\Controls1.cs",
+              "RelativeDocumentMoniker": "TelerikSpravki\\Controls1.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\TelerikSpravki\\TelerikSpravki\\Controls1.cs",
+              "RelativeToolTip": "TelerikSpravki\\Controls1.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAAAGUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T08:26:06.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Controls1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\TelerikSpravki\\TelerikSpravki\\Controls1.cs",
+              "RelativeDocumentMoniker": "TelerikSpravki\\Controls1.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\TelerikSpravki\\TelerikSpravki\\Controls1.cs [Design]",
+              "RelativeToolTip": "TelerikSpravki\\Controls1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T08:26:03.16Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Projects.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\TelerikSpravki\\TelerikSpravki\\Projects.cs",
+              "RelativeDocumentMoniker": "TelerikSpravki\\Projects.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\TelerikSpravki\\TelerikSpravki\\Projects.cs",
+              "RelativeToolTip": "TelerikSpravki\\Projects.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAIAwwDkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T10:57:20.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Projects.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\TelerikSpravki\\TelerikSpravki\\Projects.cs",
+              "RelativeDocumentMoniker": "TelerikSpravki\\Projects.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\TelerikSpravki\\TelerikSpravki\\Projects.cs [Design]",
+              "RelativeToolTip": "TelerikSpravki\\Projects.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T10:52:13.33Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employees.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\TelerikSpravki\\TelerikSpravki\\Employees.cs",
+              "RelativeDocumentMoniker": "TelerikSpravki\\Employees.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\TelerikSpravki\\TelerikSpravki\\Employees.cs",
+              "RelativeToolTip": "TelerikSpravki\\Employees.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T11:07:02.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Employees.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\TelerikSpravki\\TelerikSpravki\\Employees.cs",
+              "RelativeDocumentMoniker": "TelerikSpravki\\Employees.cs",
+              "ToolTip": "C:\\Users\\ray27\\Documents\\School\\12th Grade\\Informatics\\TelerikSpravki\\TelerikSpravki\\Employees.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\ray27\\Documents\\School\\12th Grade\\Informatics\\TelerikSpravki\\TelerikSpravki\\Employees.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T11:02:56.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\TelerikSpravki\\TelerikSpravki\\Form1.cs",
+              "RelativeDocumentMoniker": "TelerikSpravki\\Form1.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\TelerikSpravki\\TelerikSpravki\\Form1.cs",
+              "RelativeToolTip": "TelerikSpravki\\Form1.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T10:37:05.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\TelerikSpravki\\TelerikSpravki\\Form1.cs",
+              "RelativeDocumentMoniker": "TelerikSpravki\\Form1.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\TelerikSpravki\\TelerikSpravki\\Form1.cs [Design]",
+              "RelativeToolTip": "TelerikSpravki\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T10:31:15.008Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

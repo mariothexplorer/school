@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mario\\OneDrive - \u041C\u0438\u043D\u0438\u0441\u0442\u0435\u0440\u0441\u0442\u0432\u043E \u043D\u0430 \u043E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\u0442\u043E \u0438 \u043D\u0430\u0443\u043A\u0430\u0442\u0430\\\u0423\u0447\u0438\u043B\u0438\u0449\u0435\\X \u043A\u043B\u0430\u0441 2023 - 2024\\\u0418\u043D\u0444\u043E\u0440\u043C\u0430\u0442\u0438\u043A\u0430\\Mario 10G\\Dumi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{030B67B3-96FE-4ED8-9BE9-5EAE188480DB}|Dumi.csproj|c:\\users\\mario\\onedrive - \u043C\u0438\u043D\u0438\u0441\u0442\u0435\u0440\u0441\u0442\u0432\u043E \u043D\u0430 \u043E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\u0442\u043E \u0438 \u043D\u0430\u0443\u043A\u0430\u0442\u0430\\\u0443\u0447\u0438\u043B\u0438\u0449\u0435\\x \u043A\u043B\u0430\u0441 2023 - 2024\\\u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0442\u0438\u043A\u0430\\mario 10g\\dumi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{030B67B3-96FE-4ED8-9BE9-5EAE188480DB}|Dumi.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{030B67B3-96FE-4ED8-9BE9-5EAE188480DB}|Dumi.csproj|C:\\Users\\mario\\OneDrive - \u041C\u0438\u043D\u0438\u0441\u0442\u0435\u0440\u0441\u0442\u0432\u043E \u043D\u0430 \u043E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\u0442\u043E \u0438 \u043D\u0430\u0443\u043A\u0430\u0442\u0430\\\u0423\u0447\u0438\u043B\u0438\u0449\u0435\\X \u043A\u043B\u0430\u0441 2023 - 2024\\\u0418\u043D\u0444\u043E\u0440\u043C\u0430\u0442\u0438\u043A\u0430\\Mario 10G\\Dumi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{030B67B3-96FE-4ED8-9BE9-5EAE188480DB}|Dumi.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\mario\\OneDrive - \u041C\u0438\u043D\u0438\u0441\u0442\u0435\u0440\u0441\u0442\u0432\u043E \u043D\u0430 \u043E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\u0442\u043E \u0438 \u043D\u0430\u0443\u043A\u0430\u0442\u0430\\\u0423\u0447\u0438\u043B\u0438\u0449\u0435\\X \u043A\u043B\u0430\u0441 2023 - 2024\\\u0418\u043D\u0444\u043E\u0440\u043C\u0430\u0442\u0438\u043A\u0430\\Mario 10G\\Dumi\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\mario\\OneDrive - \u041C\u0438\u043D\u0438\u0441\u0442\u0435\u0440\u0441\u0442\u0432\u043E \u043D\u0430 \u043E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\u0442\u043E \u0438 \u043D\u0430\u0443\u043A\u0430\u0442\u0430\\\u0423\u0447\u0438\u043B\u0438\u0449\u0435\\X \u043A\u043B\u0430\u0441 2023 - 2024\\\u0418\u043D\u0444\u043E\u0440\u043C\u0430\u0442\u0438\u043A\u0430\\Mario 10G\\Dumi\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAALUAAAAAAAAAAAAtwMQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T09:50:28.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mario\\OneDrive - \u041C\u0438\u043D\u0438\u0441\u0442\u0435\u0440\u0441\u0442\u0432\u043E \u043D\u0430 \u043E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\u0442\u043E \u0438 \u043D\u0430\u0443\u043A\u0430\u0442\u0430\\\u0423\u0447\u0438\u043B\u0438\u0449\u0435\\X \u043A\u043B\u0430\u0441 2023 - 2024\\\u0418\u043D\u0444\u043E\u0440\u043C\u0430\u0442\u0438\u043A\u0430\\Mario 10G\\Dumi\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\mario\\OneDrive - \u041C\u0438\u043D\u0438\u0441\u0442\u0435\u0440\u0441\u0442\u0432\u043E \u043D\u0430 \u043E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\u0442\u043E \u0438 \u043D\u0430\u0443\u043A\u0430\u0442\u0430\\\u0423\u0447\u0438\u043B\u0438\u0449\u0435\\X \u043A\u043B\u0430\u0441 2023 - 2024\\\u0418\u043D\u0444\u043E\u0440\u043C\u0430\u0442\u0438\u043A\u0430\\Mario 10G\\Dumi\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T09:50:29.117Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

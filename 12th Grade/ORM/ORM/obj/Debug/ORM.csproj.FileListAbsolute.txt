@@ -1,0 +1,10 @@
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\XII клас 2025-2026\Информатика - ПП\MDP - 12G\ORM\ORM\bin\Debug\ORM.exe.config
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\XII клас 2025-2026\Информатика - ПП\MDP - 12G\ORM\ORM\bin\Debug\ORM.exe
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\XII клас 2025-2026\Информатика - ПП\MDP - 12G\ORM\ORM\bin\Debug\ORM.pdb
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\XII клас 2025-2026\Информатика - ПП\MDP - 12G\ORM\ORM\bin\Debug\EntityFramework.dll
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\XII клас 2025-2026\Информатика - ПП\MDP - 12G\ORM\ORM\bin\Debug\EntityFramework.xml
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\XII клас 2025-2026\Информатика - ПП\MDP - 12G\ORM\ORM\obj\Debug\ORM.csproj.AssemblyReference.cache
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\XII клас 2025-2026\Информатика - ПП\MDP - 12G\ORM\ORM\obj\Debug\ORM.csproj.CoreCompileInputs.cache
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\XII клас 2025-2026\Информатика - ПП\MDP - 12G\ORM\ORM\obj\Debug\ORM.csproj.Up2Date
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\XII клас 2025-2026\Информатика - ПП\MDP - 12G\ORM\ORM\obj\Debug\ORM.exe
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\XII клас 2025-2026\Информатика - ПП\MDP - 12G\ORM\ORM\obj\Debug\ORM.pdb

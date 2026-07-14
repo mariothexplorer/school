@@ -1,0 +1,10 @@
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\X клас 2023 - 2024\Информатика\Mario 10G\Animation (Drawing)\bin\Debug\Animation (Drawing).exe.config
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\X клас 2023 - 2024\Информатика\Mario 10G\Animation (Drawing)\bin\Debug\Animation (Drawing).exe
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\X клас 2023 - 2024\Информатика\Mario 10G\Animation (Drawing)\bin\Debug\Animation (Drawing).pdb
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\X клас 2023 - 2024\Информатика\Mario 10G\Animation (Drawing)\obj\Debug\Animation (Drawing).csproj.AssemblyReference.cache
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\X клас 2023 - 2024\Информатика\Mario 10G\Animation (Drawing)\obj\Debug\Animation__Drawing_.Form1.resources
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\X клас 2023 - 2024\Информатика\Mario 10G\Animation (Drawing)\obj\Debug\Animation__Drawing_.Properties.Resources.resources
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\X клас 2023 - 2024\Информатика\Mario 10G\Animation (Drawing)\obj\Debug\Animation (Drawing).csproj.GenerateResource.cache
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\X клас 2023 - 2024\Информатика\Mario 10G\Animation (Drawing)\obj\Debug\Animation (Drawing).csproj.CoreCompileInputs.cache
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\X клас 2023 - 2024\Информатика\Mario 10G\Animation (Drawing)\obj\Debug\Animation (Drawing).exe
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\X клас 2023 - 2024\Информатика\Mario 10G\Animation (Drawing)\obj\Debug\Animation (Drawing).pdb

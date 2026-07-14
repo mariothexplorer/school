@@ -1,0 +1,10 @@
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\X клас 2023 - 2024\Информатика\Mario 10G\Animation (Drawing) - Examination\bin\Debug\Animation (Drawing) - Examination.exe.config
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\X клас 2023 - 2024\Информатика\Mario 10G\Animation (Drawing) - Examination\bin\Debug\Animation (Drawing) - Examination.exe
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\X клас 2023 - 2024\Информатика\Mario 10G\Animation (Drawing) - Examination\bin\Debug\Animation (Drawing) - Examination.pdb
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\X клас 2023 - 2024\Информатика\Mario 10G\Animation (Drawing) - Examination\obj\Debug\Animation (Drawing) - Examination.csproj.AssemblyReference.cache
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\X клас 2023 - 2024\Информатика\Mario 10G\Animation (Drawing) - Examination\obj\Debug\Animation__Drawing____Examination.Form1.resources
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\X клас 2023 - 2024\Информатика\Mario 10G\Animation (Drawing) - Examination\obj\Debug\Animation__Drawing____Examination.Properties.Resources.resources
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\X клас 2023 - 2024\Информатика\Mario 10G\Animation (Drawing) - Examination\obj\Debug\Animation (Drawing) - Examination.csproj.GenerateResource.cache
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\X клас 2023 - 2024\Информатика\Mario 10G\Animation (Drawing) - Examination\obj\Debug\Animation (Drawing) - Examination.csproj.CoreCompileInputs.cache
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\X клас 2023 - 2024\Информатика\Mario 10G\Animation (Drawing) - Examination\obj\Debug\Animation (Drawing) - Examination.exe
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\X клас 2023 - 2024\Информатика\Mario 10G\Animation (Drawing) - Examination\obj\Debug\Animation (Drawing) - Examination.pdb

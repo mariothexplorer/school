@@ -1,0 +1,17 @@
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\X клас 2023 - 2024\Информатика\Mario 10G\Library\bin\Release\Library.exe.config
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\X клас 2023 - 2024\Информатика\Mario 10G\Library\bin\Release\Library.exe.manifest
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\X клас 2023 - 2024\Информатика\Mario 10G\Library\bin\Release\Library.application
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\X клас 2023 - 2024\Информатика\Mario 10G\Library\bin\Release\Library.exe
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\X клас 2023 - 2024\Информатика\Mario 10G\Library\bin\Release\Library.pdb
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\X клас 2023 - 2024\Информатика\Mario 10G\Library\obj\Release\Library.csproj.AssemblyReference.cache
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\X клас 2023 - 2024\Информатика\Mario 10G\Library\obj\Release\Library.Form1.resources
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\X клас 2023 - 2024\Информатика\Mario 10G\Library\obj\Release\Library.Input.resources
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\X клас 2023 - 2024\Информатика\Mario 10G\Library\obj\Release\Library.Properties.Resources.resources
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\X клас 2023 - 2024\Информатика\Mario 10G\Library\obj\Release\Library.Reports.resources
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\X клас 2023 - 2024\Информатика\Mario 10G\Library\obj\Release\Library.Temp.resources
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\X клас 2023 - 2024\Информатика\Mario 10G\Library\obj\Release\Library.csproj.GenerateResource.cache
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\X клас 2023 - 2024\Информатика\Mario 10G\Library\obj\Release\Library.csproj.CoreCompileInputs.cache
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\X клас 2023 - 2024\Информатика\Mario 10G\Library\obj\Release\Library.exe.manifest
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\X клас 2023 - 2024\Информатика\Mario 10G\Library\obj\Release\Library.application
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\X клас 2023 - 2024\Информатика\Mario 10G\Library\obj\Release\Library.exe
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\X клас 2023 - 2024\Информатика\Mario 10G\Library\obj\Release\Library.pdb

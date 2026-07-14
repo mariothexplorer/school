@@ -1,0 +1,22 @@
+C:\Users\mario\Desktop\Shkolo\Shkolo\bin\Debug\Shkolo.exe.config
+C:\Users\mario\Desktop\Shkolo\Shkolo\bin\Debug\Shkolo.exe
+C:\Users\mario\Desktop\Shkolo\Shkolo\bin\Debug\Shkolo.pdb
+C:\Users\mario\Desktop\Shkolo\Shkolo\obj\Debug\Shkolo.csproj.AssemblyReference.cache
+C:\Users\mario\Desktop\Shkolo\Shkolo\obj\Debug\Shkolo.Form1.resources
+C:\Users\mario\Desktop\Shkolo\Shkolo\obj\Debug\Shkolo.Properties.Resources.resources
+C:\Users\mario\Desktop\Shkolo\Shkolo\obj\Debug\Shkolo.csproj.GenerateResource.cache
+C:\Users\mario\Desktop\Shkolo\Shkolo\obj\Debug\Shkolo.csproj.CoreCompileInputs.cache
+C:\Users\mario\Desktop\Shkolo\Shkolo\obj\Debug\Shkolo.exe
+C:\Users\mario\Desktop\Shkolo\Shkolo\obj\Debug\Shkolo.pdb
+C:\Users\mario\Desktop\Shkolo\Shkolo\obj\Debug\Shkolo.exe.config
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\XII клас 2025-2026\Информатика - ПП\MDP - 12G\Shkolo\Shkolo\bin\Debug\Shkolo.exe.config
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\XII клас 2025-2026\Информатика - ПП\MDP - 12G\Shkolo\Shkolo\bin\Debug\Shkolo.exe
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\XII клас 2025-2026\Информатика - ПП\MDP - 12G\Shkolo\Shkolo\bin\Debug\Shkolo.pdb
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\XII клас 2025-2026\Информатика - ПП\MDP - 12G\Shkolo\Shkolo\obj\Debug\Shkolo.csproj.AssemblyReference.cache
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\XII клас 2025-2026\Информатика - ПП\MDP - 12G\Shkolo\Shkolo\obj\Debug\Shkolo.exe.config
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\XII клас 2025-2026\Информатика - ПП\MDP - 12G\Shkolo\Shkolo\obj\Debug\Shkolo.Form1.resources
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\XII клас 2025-2026\Информатика - ПП\MDP - 12G\Shkolo\Shkolo\obj\Debug\Shkolo.Properties.Resources.resources
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\XII клас 2025-2026\Информатика - ПП\MDP - 12G\Shkolo\Shkolo\obj\Debug\Shkolo.csproj.GenerateResource.cache
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\XII клас 2025-2026\Информатика - ПП\MDP - 12G\Shkolo\Shkolo\obj\Debug\Shkolo.csproj.CoreCompileInputs.cache
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\XII клас 2025-2026\Информатика - ПП\MDP - 12G\Shkolo\Shkolo\obj\Debug\Shkolo.exe
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\XII клас 2025-2026\Информатика - ПП\MDP - 12G\Shkolo\Shkolo\obj\Debug\Shkolo.pdb

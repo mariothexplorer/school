@@ -1,0 +1,16 @@
+G:\Martin 10v\MDP\MDP\obj\Debug\net6.0-windows\MDP.Form1.resources
+G:\Martin 10v\MDP\MDP\obj\Debug\net6.0-windows\MDP.csproj.GenerateResource.cache
+G:\Martin 10v\MDP\MDP\obj\Debug\net6.0-windows\MDP.GeneratedMSBuildEditorConfig.editorconfig
+G:\Martin 10v\MDP\MDP\obj\Debug\net6.0-windows\MDP.AssemblyInfoInputs.cache
+G:\Martin 10v\MDP\MDP\obj\Debug\net6.0-windows\MDP.AssemblyInfo.cs
+G:\Martin 10v\MDP\MDP\obj\Debug\net6.0-windows\MDP.csproj.CoreCompileInputs.cache
+G:\Martin 10v\MDP\MDP\bin\Debug\net6.0-windows\MDP.exe
+G:\Martin 10v\MDP\MDP\bin\Debug\net6.0-windows\MDP.deps.json
+G:\Martin 10v\MDP\MDP\bin\Debug\net6.0-windows\MDP.runtimeconfig.json
+G:\Martin 10v\MDP\MDP\bin\Debug\net6.0-windows\MDP.dll
+G:\Martin 10v\MDP\MDP\bin\Debug\net6.0-windows\MDP.pdb
+G:\Martin 10v\MDP\MDP\obj\Debug\net6.0-windows\MDP.dll
+G:\Martin 10v\MDP\MDP\obj\Debug\net6.0-windows\refint\MDP.dll
+G:\Martin 10v\MDP\MDP\obj\Debug\net6.0-windows\MDP.pdb
+G:\Martin 10v\MDP\MDP\obj\Debug\net6.0-windows\MDP.genruntimeconfig.cache
+G:\Martin 10v\MDP\MDP\obj\Debug\net6.0-windows\ref\MDP.dll

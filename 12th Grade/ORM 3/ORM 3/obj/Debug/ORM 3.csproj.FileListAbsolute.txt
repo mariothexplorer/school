@@ -1,0 +1,13 @@
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\XII клас 2025-2026\Информатика - ПП\MDP - 12G\ORM 3\ORM 3\bin\Debug\ORM 3.exe.config
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\XII клас 2025-2026\Информатика - ПП\MDP - 12G\ORM 3\ORM 3\bin\Debug\ORM 3.exe
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\XII клас 2025-2026\Информатика - ПП\MDP - 12G\ORM 3\ORM 3\bin\Debug\ORM 3.pdb
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\XII клас 2025-2026\Информатика - ПП\MDP - 12G\ORM 3\ORM 3\bin\Debug\EntityFramework.dll
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\XII клас 2025-2026\Информатика - ПП\MDP - 12G\ORM 3\ORM 3\bin\Debug\EntityFramework.xml
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\XII клас 2025-2026\Информатика - ПП\MDP - 12G\ORM 3\ORM 3\obj\Debug\ORM 3.csproj.AssemblyReference.cache
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\XII клас 2025-2026\Информатика - ПП\MDP - 12G\ORM 3\ORM 3\obj\Debug\ORM_3.Form1.resources
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\XII клас 2025-2026\Информатика - ПП\MDP - 12G\ORM 3\ORM 3\obj\Debug\ORM_3.Properties.Resources.resources
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\XII клас 2025-2026\Информатика - ПП\MDP - 12G\ORM 3\ORM 3\obj\Debug\ORM 3.csproj.GenerateResource.cache
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\XII клас 2025-2026\Информатика - ПП\MDP - 12G\ORM 3\ORM 3\obj\Debug\ORM 3.csproj.CoreCompileInputs.cache
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\XII клас 2025-2026\Информатика - ПП\MDP - 12G\ORM 3\ORM 3\obj\Debug\ORM 3.csproj.Up2Date
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\XII клас 2025-2026\Информатика - ПП\MDP - 12G\ORM 3\ORM 3\obj\Debug\ORM 3.exe
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\XII клас 2025-2026\Информатика - ПП\MDP - 12G\ORM 3\ORM 3\obj\Debug\ORM 3.pdb

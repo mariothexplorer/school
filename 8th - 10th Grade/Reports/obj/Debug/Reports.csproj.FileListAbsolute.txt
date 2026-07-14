@@ -1,0 +1,20 @@
+C:\Users\mario\Documents\Mario 10G\Reports\bin\Debug\Reports.exe.config
+C:\Users\mario\Documents\Mario 10G\Reports\bin\Debug\Reports.exe
+C:\Users\mario\Documents\Mario 10G\Reports\bin\Debug\Reports.pdb
+C:\Users\mario\Documents\Mario 10G\Reports\obj\Debug\Reports.csproj.AssemblyReference.cache
+C:\Users\mario\Documents\Mario 10G\Reports\obj\Debug\Reports.Form1.resources
+C:\Users\mario\Documents\Mario 10G\Reports\obj\Debug\Reports.Properties.Resources.resources
+C:\Users\mario\Documents\Mario 10G\Reports\obj\Debug\Reports.csproj.GenerateResource.cache
+C:\Users\mario\Documents\Mario 10G\Reports\obj\Debug\Reports.csproj.CoreCompileInputs.cache
+C:\Users\mario\Documents\Mario 10G\Reports\obj\Debug\Reports.exe
+C:\Users\mario\Documents\Mario 10G\Reports\obj\Debug\Reports.pdb
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\X клас 2023 - 2024\Информатика\Mario 10G\Reports\bin\Debug\Reports.exe.config
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\X клас 2023 - 2024\Информатика\Mario 10G\Reports\bin\Debug\Reports.exe
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\X клас 2023 - 2024\Информатика\Mario 10G\Reports\bin\Debug\Reports.pdb
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\X клас 2023 - 2024\Информатика\Mario 10G\Reports\obj\Debug\Reports.csproj.AssemblyReference.cache
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\X клас 2023 - 2024\Информатика\Mario 10G\Reports\obj\Debug\Reports.Form1.resources
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\X клас 2023 - 2024\Информатика\Mario 10G\Reports\obj\Debug\Reports.Properties.Resources.resources
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\X клас 2023 - 2024\Информатика\Mario 10G\Reports\obj\Debug\Reports.csproj.GenerateResource.cache
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\X клас 2023 - 2024\Информатика\Mario 10G\Reports\obj\Debug\Reports.csproj.CoreCompileInputs.cache
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\X клас 2023 - 2024\Информатика\Mario 10G\Reports\obj\Debug\Reports.exe
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\X клас 2023 - 2024\Информатика\Mario 10G\Reports\obj\Debug\Reports.pdb

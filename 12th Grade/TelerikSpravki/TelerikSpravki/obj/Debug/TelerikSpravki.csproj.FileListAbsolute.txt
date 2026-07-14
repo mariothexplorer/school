@@ -1,0 +1,48 @@
+C:\Users\ray27\Documents\School\12th Grade\Informatics\TelerikSpravki\TelerikSpravki\bin\Debug\TelerikSpravki.exe.config
+C:\Users\ray27\Documents\School\12th Grade\Informatics\TelerikSpravki\TelerikSpravki\bin\Debug\TelerikSpravki.exe
+C:\Users\ray27\Documents\School\12th Grade\Informatics\TelerikSpravki\TelerikSpravki\bin\Debug\TelerikSpravki.pdb
+C:\Users\ray27\Documents\School\12th Grade\Informatics\TelerikSpravki\TelerikSpravki\obj\Debug\TelerikSpravki.csproj.AssemblyReference.cache
+C:\Users\ray27\Documents\School\12th Grade\Informatics\TelerikSpravki\TelerikSpravki\obj\Debug\TelerikSpravki.Form1.resources
+C:\Users\ray27\Documents\School\12th Grade\Informatics\TelerikSpravki\TelerikSpravki\obj\Debug\TelerikSpravki.Properties.Resources.resources
+C:\Users\ray27\Documents\School\12th Grade\Informatics\TelerikSpravki\TelerikSpravki\obj\Debug\TelerikSpravki.csproj.GenerateResource.cache
+C:\Users\ray27\Documents\School\12th Grade\Informatics\TelerikSpravki\TelerikSpravki\obj\Debug\TelerikSpravki.csproj.CoreCompileInputs.cache
+C:\Users\ray27\Documents\School\12th Grade\Informatics\TelerikSpravki\TelerikSpravki\obj\Debug\TelerikSpravki.exe
+C:\Users\ray27\Documents\School\12th Grade\Informatics\TelerikSpravki\TelerikSpravki\obj\Debug\TelerikSpravki.pdb
+C:\Users\ray27\Documents\School\12th Grade\Informatics\TelerikSpravki\TelerikSpravki\obj\Debug\TelerikSpravki.exe.config
+C:\Users\ray27\Documents\School\12th Grade\Informatics\TelerikSpravki\TelerikSpravki\obj\Debug\TelerikSpravki.Employees.resources
+C:\Users\ray27\Documents\School\12th Grade\Informatics\TelerikSpravki\TelerikSpravki\obj\Debug\TelerikSpravki.Projects.resources
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\XII клас 2025-2026\Информатика - ПП\MDP - 12G\TelerikSpravki\TelerikSpravki\bin\Debug\TelerikSpravki.exe.config
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\XII клас 2025-2026\Информатика - ПП\MDP - 12G\TelerikSpravki\TelerikSpravki\bin\Debug\TelerikSpravki.exe
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\XII клас 2025-2026\Информатика - ПП\MDP - 12G\TelerikSpravki\TelerikSpravki\bin\Debug\TelerikSpravki.pdb
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\XII клас 2025-2026\Информатика - ПП\MDP - 12G\TelerikSpravki\TelerikSpravki\obj\Debug\TelerikSpravki.csproj.AssemblyReference.cache
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\XII клас 2025-2026\Информатика - ПП\MDP - 12G\TelerikSpravki\TelerikSpravki\obj\Debug\TelerikSpravki.Employees.resources
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\XII клас 2025-2026\Информатика - ПП\MDP - 12G\TelerikSpravki\TelerikSpravki\obj\Debug\TelerikSpravki.Form1.resources
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\XII клас 2025-2026\Информатика - ПП\MDP - 12G\TelerikSpravki\TelerikSpravki\obj\Debug\TelerikSpravki.Projects.resources
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\XII клас 2025-2026\Информатика - ПП\MDP - 12G\TelerikSpravki\TelerikSpravki\obj\Debug\TelerikSpravki.Properties.Resources.resources
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\XII клас 2025-2026\Информатика - ПП\MDP - 12G\TelerikSpravki\TelerikSpravki\obj\Debug\TelerikSpravki.csproj.GenerateResource.cache
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\XII клас 2025-2026\Информатика - ПП\MDP - 12G\TelerikSpravki\TelerikSpravki\obj\Debug\TelerikSpravki.csproj.CoreCompileInputs.cache
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\XII клас 2025-2026\Информатика - ПП\MDP - 12G\TelerikSpravki\TelerikSpravki\obj\Debug\TelerikSpravki.exe
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\XII клас 2025-2026\Информатика - ПП\MDP - 12G\TelerikSpravki\TelerikSpravki\obj\Debug\TelerikSpravki.pdb
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\XII клас 2025-2026\Информатика - ПП\MDP - 12G\TelerikSpravki\TelerikSpravki\obj\Debug\TelerikSpravki.Addresses.resources
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\XII клас 2025-2026\Информатика - ПП\MDP - 12G\TelerikSpravki\TelerikSpravki\obj\Debug\TelerikSpravki.Departments.resources
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\XII клас 2025-2026\Информатика - ПП\MDP - 12G\TelerikSpravki\TelerikSpravki\obj\Debug\TelerikSpravki.Towns.resources
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\XII клас 2025-2026\Информатика - ПП\MDP - 12G\TelerikSpravki\TelerikSpravki\obj\Debug\TelerikSpravki.UserControl1.resources
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\XII клас 2025-2026\Информатика - ПП\MDP - 12G\TelerikSpravki\TelerikSpravki\obj\Debug\TelerikSpravki.Controls1.resources
+C:\Users\Student\Desktop\TelerikSpravki\TelerikSpravki\bin\Debug\TelerikSpravki.exe.config
+C:\Users\Student\Desktop\TelerikSpravki\TelerikSpravki\bin\Debug\TelerikSpravki.exe
+C:\Users\Student\Desktop\TelerikSpravki\TelerikSpravki\bin\Debug\TelerikSpravki.pdb
+C:\Users\Student\Desktop\TelerikSpravki\TelerikSpravki\obj\Debug\TelerikSpravki.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\TelerikSpravki\TelerikSpravki\obj\Debug\TelerikSpravki.exe.config
+C:\Users\Student\Desktop\TelerikSpravki\TelerikSpravki\obj\Debug\TelerikSpravki.Addresses.resources
+C:\Users\Student\Desktop\TelerikSpravki\TelerikSpravki\obj\Debug\TelerikSpravki.Controls1.resources
+C:\Users\Student\Desktop\TelerikSpravki\TelerikSpravki\obj\Debug\TelerikSpravki.Departments.resources
+C:\Users\Student\Desktop\TelerikSpravki\TelerikSpravki\obj\Debug\TelerikSpravki.Employees.resources
+C:\Users\Student\Desktop\TelerikSpravki\TelerikSpravki\obj\Debug\TelerikSpravki.Form1.resources
+C:\Users\Student\Desktop\TelerikSpravki\TelerikSpravki\obj\Debug\TelerikSpravki.Projects.resources
+C:\Users\Student\Desktop\TelerikSpravki\TelerikSpravki\obj\Debug\TelerikSpravki.Properties.Resources.resources
+C:\Users\Student\Desktop\TelerikSpravki\TelerikSpravki\obj\Debug\TelerikSpravki.Towns.resources
+C:\Users\Student\Desktop\TelerikSpravki\TelerikSpravki\obj\Debug\TelerikSpravki.UserControl1.resources
+C:\Users\Student\Desktop\TelerikSpravki\TelerikSpravki\obj\Debug\TelerikSpravki.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\TelerikSpravki\TelerikSpravki\obj\Debug\TelerikSpravki.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\TelerikSpravki\TelerikSpravki\obj\Debug\TelerikSpravki.exe
+C:\Users\Student\Desktop\TelerikSpravki\TelerikSpravki\obj\Debug\TelerikSpravki.pdb

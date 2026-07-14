@@ -1,0 +1,13 @@
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\X клас 2023 - 2024\Информатика\Mario 10G\School program\bin\Debug\School program.exe.config
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\X клас 2023 - 2024\Информатика\Mario 10G\School program\bin\Debug\School program.exe
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\X клас 2023 - 2024\Информатика\Mario 10G\School program\bin\Debug\School program.pdb
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\X клас 2023 - 2024\Информатика\Mario 10G\School program\obj\Debug\School program.csproj.AssemblyReference.cache
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\X клас 2023 - 2024\Информатика\Mario 10G\School program\obj\Debug\School_program.Form1.resources
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\X клас 2023 - 2024\Информатика\Mario 10G\School program\obj\Debug\School_program.Properties.Resources.resources
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\X клас 2023 - 2024\Информатика\Mario 10G\School program\obj\Debug\School program.csproj.GenerateResource.cache
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\X клас 2023 - 2024\Информатика\Mario 10G\School program\obj\Debug\School program.csproj.CoreCompileInputs.cache
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\X клас 2023 - 2024\Информатика\Mario 10G\School program\obj\Debug\School program.exe
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\X клас 2023 - 2024\Информатика\Mario 10G\School program\obj\Debug\School program.pdb
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\X клас 2023 - 2024\Информатика\Mario 10G\School program\obj\Debug\School_program.Password.resources
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\X клас 2023 - 2024\Информатика\Mario 10G\School program\obj\Debug\School_program.Schedule.resources
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\X клас 2023 - 2024\Информатика\Mario 10G\School program\obj\Debug\School_program.Reports.resources

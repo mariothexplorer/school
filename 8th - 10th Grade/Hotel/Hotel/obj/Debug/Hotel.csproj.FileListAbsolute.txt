@@ -1,0 +1,7 @@
+G:\Mario 10G\Hotel\Hotel\bin\Debug\Hotel.exe.config
+G:\Mario 10G\Hotel\Hotel\bin\Debug\Hotel.exe
+G:\Mario 10G\Hotel\Hotel\bin\Debug\Hotel.pdb
+G:\Mario 10G\Hotel\Hotel\obj\Debug\Hotel.csproj.AssemblyReference.cache
+G:\Mario 10G\Hotel\Hotel\obj\Debug\Hotel.csproj.CoreCompileInputs.cache
+G:\Mario 10G\Hotel\Hotel\obj\Debug\Hotel.exe
+G:\Mario 10G\Hotel\Hotel\obj\Debug\Hotel.pdb

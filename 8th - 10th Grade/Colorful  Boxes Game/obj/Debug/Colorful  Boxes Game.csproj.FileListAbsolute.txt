@@ -1,0 +1,10 @@
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\X клас 2023 - 2024\Информатика\Mario 10G\Colorful  Boxes Game\bin\Debug\Colorful  Boxes Game.exe.config
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\X клас 2023 - 2024\Информатика\Mario 10G\Colorful  Boxes Game\bin\Debug\Colorful  Boxes Game.exe
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\X клас 2023 - 2024\Информатика\Mario 10G\Colorful  Boxes Game\bin\Debug\Colorful  Boxes Game.pdb
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\X клас 2023 - 2024\Информатика\Mario 10G\Colorful  Boxes Game\obj\Debug\Colorful  Boxes Game.csproj.AssemblyReference.cache
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\X клас 2023 - 2024\Информатика\Mario 10G\Colorful  Boxes Game\obj\Debug\Colorful__Boxes_Game.Form1.resources
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\X клас 2023 - 2024\Информатика\Mario 10G\Colorful  Boxes Game\obj\Debug\Colorful__Boxes_Game.Properties.Resources.resources
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\X клас 2023 - 2024\Информатика\Mario 10G\Colorful  Boxes Game\obj\Debug\Colorful  Boxes Game.csproj.GenerateResource.cache
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\X клас 2023 - 2024\Информатика\Mario 10G\Colorful  Boxes Game\obj\Debug\Colorful  Boxes Game.csproj.CoreCompileInputs.cache
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\X клас 2023 - 2024\Информатика\Mario 10G\Colorful  Boxes Game\obj\Debug\Colorful  Boxes Game.exe
+C:\Users\mario\OneDrive - Министерство на образованието и науката\Училище\X клас 2023 - 2024\Информатика\Mario 10G\Colorful  Boxes Game\obj\Debug\Colorful  Boxes Game.pdb
